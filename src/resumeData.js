@@ -1,63 +1,77 @@
 let resumeData = {
     "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
+    "name": "Helen Harris",
+    "role": "Full Stack Developer",
     "linkedinId":"Your LinkedIn Id",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "My passion for innovative creativity brings a unique perspective to the development lifecycle as I'm constantly searching for creative solutions to technical problems.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/helen-harris-50205b15/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/hharris0803",
           "className":"fa fa-github"
         },
-        {
-          "name":"skype",
-          "url":"http://twitter.com/rbhatia46",
-          "className":"fa fa-twitter"
-        }
+        // {
+        //   "name":"twitter",
+        //   "url":"http://twitter.com/rbhatia46",
+        //   "className":"fa fa-twitter"
+        // }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
-    "website":"https://rbhatia46.github.io",
+    "aboutme":"Pre-law student turned engineer. Currently working as a Front End Developer at DraftServ Technologies, LLC.",
+    "address":"Atlanta, GA",
+    "website":"http://helenmharris.com/",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Florida State University",
+        "specialization":"Bachelor of Science",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2014",
+        "Achievements":""
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"DigitalCrafts",
+        "specialization":"16 Week Full Stack Immersive Software Development Program",
+        "MonthOfPassing":"",
+        "YearOfPassing":"2019",
+        "Achievements":""
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"DraftServ Technologies LLC.",
+        "specialization":"Front End Developer",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2019-Current",
+        "Achievements":""
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"rubix Inc.",
+        "specialization":"Front End Developer",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2019",
+        "Achievements":""
+      },
+      {
+        "CompanyName":"EasyCare (APCO)",
+        "specialization":"Business Analyst and Quality Assurance Specialist",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2016-2018",
+        "Achievements":""
+      }, 
+      {
+        "CompanyName":"iSpring Water Systems",
+        "specialization":"Project Manager",
+        "MonthOfLeaving":"",
+        "YearOfLeaving":"2014-2016",
+        "Achievements":""
       }
     ],
-    "skillsDescription":"Your skills here",
+    "skillsDescription":"Skills",
     "skills":[
       {
         "skillname":"HTML5"
@@ -66,7 +80,28 @@ let resumeData = {
         "skillname":"CSS"
       },
       {
+        "skillname":"Javascript"
+      },
+      {
         "skillname":"Reactjs"
+      },
+      {
+        "skillname":"Redux"
+      },
+      {
+        "skillname":"Express"
+      },
+      {
+        "skillname":"Postgres"
+      },
+      {
+        "skillname":"Node"
+      },
+      {
+        "skillname":"Git"
+      },
+      {
+        "skillname":"AWS"
       }
     ],
     "portfolio":[

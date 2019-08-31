@@ -33,7 +33,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
+   background: #161415 url(../images/header-background.png) no-repeat center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -179,7 +179,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #F06000; }
+ul#nav li.current a { color: #FFC0CB; }
 
 
 /* ------------------------------------------------------------------ */
@@ -187,7 +187,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #about {
-   background: #2B2B2B;
+   background: #FFC0CB;
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
@@ -207,9 +207,9 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 200px;
+   height: 200px;
+   border-radius: 50%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -223,7 +223,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #about .download .button:hover {
    background: #fff;
-   color: #2B2B2B;
+   color: #FFC0CB;
 }
 #about .download .button i {
    margin-right: 15px;
@@ -411,7 +411,7 @@ ul#nav li.current a { color: #F06000; }
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-   background: #ebeeee;
+   background: #FFB6C1;
    padding-top: 90px;
    padding-bottom: 60px;
 }
@@ -608,7 +608,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #call-to-action h2 {
    font: 28px/36px 'opensans-bold', sans-serif;
-   color: #EBEEEE;
+   color: #FFB6C1;
    margin-bottom: 6px;
 }
 #call-to-action h2 a {
@@ -802,7 +802,7 @@ call-to-action .button {
    font: 18px/24px 'opensans-bold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 3px;
-   color: #EBEEEE;
+   color: #FFB6C1;
    margin-bottom: 6px;
 }
 #contact h1 span { display: none; }
@@ -814,12 +814,12 @@ call-to-action .button {
    line-height: 72px;
    text-align: left;
    float: left;
-   color: #ebeeee;
+   color: #FFB6C1;
 }
 
 #contact h4 {
    font: 16px/24px 'opensans-bold', sans-serif;
-   color: #EBEEEE;
+   color: #FFB6C1;
    margin-bottom: 6px;
 }
 #contact p.lead {
@@ -834,7 +834,7 @@ call-to-action .button {
 #contact label {
    font: 15px/24px 'opensans-bold', sans-serif;
    margin: 12px 0;
-   color: #EBEEEE;
+   color: #FFB6C1;
 	display: inline-block;
 	float: left;
    width: 26%;
@@ -927,7 +927,7 @@ call-to-action .button {
 footer {
    padding-top: 48px;
    margin-bottom: 48px;
-   color: #303030;
+   color: #FF69B4;
    font-size: 14px;
    text-align: center;
    position: relative;
@@ -971,7 +971,7 @@ footer .social-links li {
     margin: 0;
     padding: 0;
     margin-left: 42px;
-    color: #F06000;
+    color: #FFC0CB;
 }
 
 footer .social-links li:first-child { margin-left: 0; }
