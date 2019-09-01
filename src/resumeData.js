@@ -17,6 +17,11 @@ let resumeData = {
           "className":"fa fa-github"
         },
         // {
+        //   "name":"email",
+        //   "url":"hchang0803@outlook.com",
+        //   "className":"fa fa-envelope"
+        // },
+        // {
         //   "name":"twitter",
         //   "url":"http://twitter.com/rbhatia46",
         //   "className":"fa fa-twitter"
@@ -74,39 +79,50 @@ let resumeData = {
     "skillsDescription":"Skills",
     "skills":[
       {
+        "imgurl":"images/resumeIcons/html.png",
         "skillname":"HTML5"
       },
       {
+        "imgurl":"images/resumeIcons/css.png",
         "skillname":"CSS"
       },
       {
+        "imgurl":"images/resumeIcons/javascript.png",
         "skillname":"Javascript"
       },
       {
+        "imgurl":"images/resumeIcons/react.png",
         "skillname":"Reactjs"
       },
       {
+        "imgurl":"images/resumeIcons/redux.png",
         "skillname":"Redux"
       },
       {
+        "imgurl":"images/resumeIcons/express.png",
         "skillname":"Express"
       },
       {
+        "imgurl":"images/resumeIcons/postgres.png",
         "skillname":"Postgres"
       },
       {
+        "imgurl":"images/resumeIcons/node.png",
         "skillname":"Node"
       },
       {
+        "imgurl":"images/resumeIcons/git.png",
         "skillname":"Git"
       },
       {
+        "imgurl":"images/resumeIcons/aws.png",
         "skillname":"AWS"
       }
     ],
     "portfolio":[
       {
         "name":"Jacob Cline",
+        // "description": "",
         "website":"jacobcline.com",  
         "imgurl":"images/portfolio/jacob_cline.png"
       },
@@ -143,7 +159,7 @@ let resumeData = {
       {
         "name":"Chicago Marketing Inc.",
         "website":"chicagomarketinginc.com",
-        "imgurl":"images/portfolio/chicagoland_executives.png"
+        "imgurl":"images/portfolio/chicago_marketing.png"
       },
       // {
       //   "name":"Draftserv",
