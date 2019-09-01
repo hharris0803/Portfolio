@@ -106,25 +106,63 @@ let resumeData = {
     ],
     "portfolio":[
       {
-        "name":"project1",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Jacob Cline",
+        "website":"jacobcline.com",  
+        "imgurl":"images/portfolio/jacob_cline.png"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"New Acquisitions",
+        "website":"newacquisitionsinc.com",
+        "imgurl":"images/portfolio/new_acquisitions.png"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Chicagoland Executives",
+        "website":"chicagolandexecutives.com",
+        "imgurl":"images/portfolio/chicagoland_executives.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
-      }
+        "name":"Pro Tenn",
+        "website":"pro-tenn.com",
+        "imgurl":"images/portfolio/pro_tenn.png"
+      },
+      {
+        "name":"9Ten Solutions",
+        "website":"9tensolutions.com",
+        "imgurl":"images/portfolio/9ten_solutions.png"
+      },
+      {
+        "name":"Mountain Management Core",
+        "website":"mountmngtcore.com",
+        "imgurl":"images/portfolio/mountain_management.png"
+      },
+      {
+        "name":"Alphalete Marketing",
+        "website":"alphaletemarketing.com",
+        "imgurl":"images/portfolio/alphalete_marketing.png"
+      },
+      {
+        "name":"Chicago Marketing Inc.",
+        "website":"chicagomarketinginc.com",
+        "imgurl":"images/portfolio/chicagoland_executives.png"
+      },
+      // {
+      //   "name":"Draftserv",
+      //   // "description":"UI for Draftserv machine operations",
+      //   "website":"",
+      //   "imgurl":"images/portfolio/"
+      // },
+      // {
+      //   "name":"Draftserv",
+      //   // "description":"UI for Draftserv machine operations",
+      //   "website":"draftserv.com",
+      //   "imgurl":"images/portfolio/"
+      // },
+      // {
+      //   "name":"Draftserv Admin",
+      //   // "description":"UI for Draftserv machine operations",
+      //   "website":"draftserv.com",
+      //   "imgurl":"images/portfolio/"
+      // }
     ],
     "testimonials":[
       {
