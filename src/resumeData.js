@@ -35,14 +35,14 @@ let resumeData = {
         "UniversityName":"Florida State University",
         "specialization":"Bachelor of Science",
         "MonthOfPassing":"",
-        "YearOfPassing":"2014",
+        "YearOfPassing":"2009-2014",
         "Achievements":""
       },
       {
         "UniversityName":"DigitalCrafts",
         "specialization":"16 Week Full Stack Immersive Software Development Program",
         "MonthOfPassing":"",
-        "YearOfPassing":"2019",
+        "YearOfPassing":"2018-2019",
         "Achievements":""
       }
     ],
