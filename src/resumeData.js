@@ -27,7 +27,7 @@ let resumeData = {
         //   "className":"fa fa-twitter"
         // }
       ],
-    "aboutme":"Pre-law student turned engineer. Currently working as a Front End Developer at DraftServ Technologies, LLC.",
+    "aboutme":"Currently working as a Front End Developer at DraftServ Technologies, LLC.",
     "address":"Atlanta, GA",
     "website":"http://helenmharris.com/",
     "education":[
@@ -122,7 +122,6 @@ let resumeData = {
     "portfolio":[
       {
         "name":"Jacob Cline",
-        // "description": "",
         "website":"jacobcline.com",  
         "imgurl":"images/portfolio/jacob_cline.png"
       },
