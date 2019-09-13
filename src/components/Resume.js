@@ -16,7 +16,7 @@ class Resume extends Component {
             {resumeData.education &&
               resumeData.education.map(item => {
                 return (
-                  <div className="row item">
+                  <div className="row item" key={item.id}>
                     <div className="twelve columns">
                       <h3>{item.UniversityName}</h3>
                       <p className="info">
@@ -44,7 +44,7 @@ class Resume extends Component {
             {resumeData.work &&
               resumeData.work.map(item => {
                 return (
-                  <div className="row item">
+                  <div className="row item" key={item.id}>
                     <div className="twelve columns">
                       <h3>{item.CompanyName}</h3>
                       <p className="info">
@@ -77,8 +77,9 @@ class Resume extends Component {
                 {resumeData.skills &&
                   resumeData.skills.slice(0, 5).map(item => {
                     return (
-                      <li>
+                      <li key={item.id}>
                         <img
+                          alt="skillsImage"
                           src={`${item.imgurl}`}
                           className="item-img"
                           style={{ height: "80px" }}
@@ -95,8 +96,9 @@ class Resume extends Component {
                 {resumeData.skills &&
                   resumeData.skills.slice(5, 10).map(item => {
                     return (
-                      <li>
+                      <li key={item.id}>
                         <img
+                          alt="skillsImage"
                           src={`${item.imgurl}`}
                           className="item-img"
                           style={{ height: "80px" }}
